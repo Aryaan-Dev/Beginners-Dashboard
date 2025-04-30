@@ -5,7 +5,7 @@
 ## Screenshots 🎉📸
 
 ![Alt text](https://github.com/Aryaan-Dev/Beginners-Dashboard/blob/0df6e91231d41045f4dabba8c84745e6080421a7/1.png)
-![Alt text]()
+![Alt text](https://github.com/Aryaan-Dev/Beginners-Dashboard/blob/1cb4f36fd640bd2a3e86e94a80f569d69621e43c/2.png)
 
 ### Prerequisites 🛠️
 
