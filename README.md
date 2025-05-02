@@ -19,7 +19,7 @@ Before you begin, ensure you have:
 1. **Clone the Repository**
 
    - Open your terminal or command prompt.
-   - Run: `git clone https://github.com/yourusername/crime-statistics-dashboard.git`
+   - Run: `git clone https://github.com/Aryaan-Dev/crime-statistics-dashboard.git`
    - Navigate to the project folder: `cd crime-statistics-dashboard`
 
 2. **Install Dependencies** 🔧
